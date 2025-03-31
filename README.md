@@ -1,7 +1,7 @@
 <img src="banner_logo.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Christian, an Engineer and AI Enthuasiast 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+🛜 currently working on my own [webpage](https://imchrisrueda.github.io/myportfolio)<br>👨🏼‍🎓 Mechatronics Engineer - Robotics & Automation Master - PhD(c) Engineering 👨🏼‍💻 working on Momentum CSIC <br>
 
 
 # 💻 Tech Stack:
